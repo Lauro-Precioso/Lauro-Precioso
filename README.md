@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/Lauro-Precioso/Lauro-Precioso/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lauro-precioso/lauro-precioso/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
