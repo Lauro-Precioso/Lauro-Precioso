@@ -2,11 +2,11 @@
   
   <h1 align="center">
     Oi, Tudo bem? Eu sou o 
-    <a href="https://lauro-precioso.github.io">Lauro Precioso! 😃️</a>
+    <a href="https://lauro-precioso.github.io">Lauro Precioso</a>! 😃️
   </h1>
   
   <p align="center">
-    Sou formado em Análise e Desenvolvimento de Sistemas na FATEC de Rio Preto
+    Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Rio Preto, e estou em busca de oportunidades como desenvolvedor.
   </p>
 </div>
 
