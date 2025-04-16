@@ -1,5 +1,15 @@
 <div>
-  
+  <p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge"/>
+  </a>
+  <a href="./en/README.md">
+    <img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+</div>
+<div> 
   <h1 align="center">
     Oi, Tudo bem? Eu sou o 
     <a href="https://lauro-precioso.github.io">Lauro Precioso</a>! 😃️
