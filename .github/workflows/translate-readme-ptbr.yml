@@ -1,0 +1,24 @@
+name: Translate README to PT-BR version
+
+on:
+  repository_dispatch:
+    types: [translate-readme-ptbr]
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Brazilian Portuguese Translation
+        run: cp ptbr/README.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@users.noreply.github.com'
+          git add README.md
+          git commit -m "README updated to the Brazilian Portuguese version"
+          git push
