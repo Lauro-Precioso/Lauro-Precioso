@@ -1,9 +1,9 @@
 <p align="right">
   <a href="https://lauro-precioso.github.io/pt">
-    <img src="https://img.shields.io/badge/Português-blue?style=for-the-badge" alt="Versão em Português" width="105" height="20"/>
+    <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-PT--BR-blue" alt="PT-BR"/>
   </a>
   <a href="https://lauro-precioso.github.io/en">
-    <img src="https://img.shields.io/badge/English-red?style=for-the-badge" alt="English Version" width="105" height="20"/>
+    <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-EN-blue" alt="EN"/>
   </a>
 </p>
 
@@ -49,5 +49,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart:, :coffee: e JavaScript.</p>
+  <p>Feito com :heart:, :coffee: e HTML.</p>
 </div>
