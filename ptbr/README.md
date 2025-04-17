@@ -51,5 +51,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart:, :coffee: e JavaScript.</p>
+  <p>Feito com :heart:, :coffee: e HTML.</p>
 </div>
