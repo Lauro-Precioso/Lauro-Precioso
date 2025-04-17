@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="https://lauro-precioso.github.io/pt-br">
+    <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-PT--BR-blue" alt="PT-BR"/>
+  </a>
+  <a href="https://lauro-precioso.github.io/en">
+    <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-EN-blue" alt="EN"/>
+  </a>
+</p>
+
 <div>
   <h1 align="center">
     Hey there! What's up? I'm <a href="https://lauro-precioso.github.io">Lauro Precioso</a>! 😃️
