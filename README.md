@@ -1,8 +1,8 @@
 <p align="right">
-  <a href="https://lauro-precioso.github.io/pt-br">
+  <a href="https://lauro-precioso.github.io/translate/pt-br/pt-br">
     <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-PT--BR-blue" alt="PT-BR"/>
   </a>
-  <a href="https://lauro-precioso.github.io/en">
+  <a href="https://lauro-precioso.github.io/translate/en/en">
     <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-EN-blue" alt="EN"/>
   </a>
 </p>
